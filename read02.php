@@ -64,7 +64,7 @@ $txt = array_reverse($txt);
   <p>予約注文受付中</p><br><br>
   <p>この商品についてのコメントを受付中です！</p>
   <a href="post02.php" class="btn">投稿する</a><br><br><br><br><br>
-  <a href="index01.php" class="btn">TOPに戻る</a>
+  <a href="index02.php" class="btn">TOPに戻る</a>
 </div>
 <?php 
 //＊ここで表示処理
